@@ -1,7 +1,5 @@
 # Money_Tracker
 
-# Money Tracker WebApp
-
 ## Overview
 
 Money Tracker WebApp is a full-stack application built using the MERN stack (MongoDB, Express, React, Node.js) for managing expenses and income. It leverages technologies such as Redux Toolkit, RTK Query, Tailwind CSS, and Lodash to create a robust and user-friendly financial tracking experience.
