@@ -19,3 +19,6 @@ Money Tracker WebApp is a full-stack application built using the MERN stack (Mon
 - Node.js
 - Lodash
 - Tailwind CSS
+
+## Demo
+![Money Tracker Demo](https://github.com/akshaychandarkar/Money_Tracker/blob/main/Github_Demo.gif)
